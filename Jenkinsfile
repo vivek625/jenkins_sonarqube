@@ -1,1 +1,1 @@
-echo "jai shree ram" > /jai
+groovy -e "jai shree ram'"
